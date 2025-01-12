@@ -28,6 +28,12 @@
         "extensions": [
           ".cr"
         ]
+      },
+      {
+        "id": "html.ecr",
+        "extensions": [
+          ".ecr"
+        ]
       }
     ],
     "commands": [
